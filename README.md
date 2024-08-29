@@ -1,5 +1,3 @@
-# Decomposing Economic Indicators: A Study of Compensation, GDP, and Employment Rate in Germany Through Empirical Mode Decomposition
-
 ![Picture1](https://github.com/user-attachments/assets/7fc42212-6903-41ac-996b-895e09653c2a)
 
 ## Overview
