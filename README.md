@@ -67,3 +67,9 @@ This MATLAB script performs similar tasks to the Python code:
 1. Ensure the EMD toolbox is included in your MATLAB path.
 2. Update file paths if necessary.
 3. Run the script in MATLAB.
+
+`Created in Aug 2024`
+
+`@author: Pavan Mohan Neelamraju`
+
+`Affiliation: Indian Institute of Technology Madras`
