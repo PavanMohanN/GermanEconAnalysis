@@ -48,7 +48,7 @@ This script performs the following tasks:
    python emd_analysis.py
    ```
 
-# Python Script: 'analysis_additional.py'
+## Python Script: `analysis_additional.py`
 
 This script will:
 1. Load and preprocess the data
