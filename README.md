@@ -65,17 +65,3 @@ This MATLAB script performs similar tasks to the Python code:
 1. Ensure the EMD toolbox is included in your MATLAB path.
 2. Update file paths if necessary.
 3. Run the script in MATLAB.
-
-## Data
-
-Ensure that the data files are available at the specified paths and include the following columns:
-- `Financial Quarter`
-- `Employement Rate`
-- `GDP`
-- `Compensation in Billions`
-
-## Notes
-
-- Verify data file formats and paths before running the scripts.
-- Adjust plot styles and analysis based on your specific requirements.
-
