@@ -9,6 +9,16 @@ This repository contains code for performing Empirical Mode Decomposition (EMD) 
 
 The provided Python and MATLAB scripts will help in performing EMD, analyzing Intrinsic Mode Functions (IMFs), and visualizing the results.
 
+![image]()
+<img src="https://github.com/user-attachments/assets/d0bbce8c-7812-4a52-9f70-2cc44e779d00" alt="Image Description" width="100" />
+
+
+## Dataset
+
+1.  Real Gross Domestic Product for Germany (CLVMNACSCAB1GQDE): https://fred.stlouisfed.org/series/CLVMNACSCAB1GQDE
+2.  Dataset for Compensation of Employees: https://fred.stlouisfed.org/series/DEUCOMPQDSNAQ
+3.  Dataset for Employement: https://fred.stlouisfed.org/series/LREM64TTDEQ156S#
+
 ## Files
 
 - **Python Code**: `emd_analysis.py`
