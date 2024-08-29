@@ -9,7 +9,7 @@ This repository contains code for performing Empirical Mode Decomposition (EMD) 
 
 The provided Python and MATLAB scripts will help in performing EMD, analyzing Intrinsic Mode Functions (IMFs), and visualizing the results.
 
-<img src="https://github.com/user-attachments/assets/4d88acf3-7439-4fb2-bc00-9973efe942bb" alt="Image Description" width="100" />
+<img src="https://github.com/user-attachments/assets/4d88acf3-7439-4fb2-bc00-9973efe942bb" alt="Image Description" />
 
 ## Dataset
 
