@@ -47,6 +47,46 @@ This script performs the following tasks:
    ```sh
    python emd_analysis.py
    ```
+
+Python Script: analysis_additional.py
+
+This script will:
+1. Load and preprocess the data
+2. Compute and analyze residuals
+3. Perform correlation analysis
+4. Apply Fast Fourier Transform (FFT)
+5. Visualize results
+   
+### Explanation
+
+Loading and Preprocessing: The script reads the datasets and performs the necessary preprocessing steps.
+
+### Residual Analysis:
+
+1. compute_residuals() function calculates residuals by subtracting predicted values from actual values.
+2. simple_linear_regression() is a placeholder function for linear regression (replace it with your actual regression model).
+3. Plots the residuals for Employment Rate vs GDP.
+
+### Correlation Analysis:
+
+correlation_analysis() computes Pearson correlation coefficients between two specified columns.
+
+### FFT Analysis:
+
+fft_analysis() function performs Fast Fourier Transform on the given data and plots the frequency domain representation.
+
+### Usage
+
+Save the script as analysis_additional.py.
+
+Ensure you have the required libraries (pandas, numpy, matplotlib, scipy).
+
+### Run the script:
+  ```sh
+python analysis_additional.py
+  ```
+This script provides a comprehensive analysis including residuals, correlation, and FFT, which complements the previous EMD analysis.
+
 <img src="https://github.com/user-attachments/assets/17f51656-0151-4819-b111-879b180c8d94" alt="Image Description" width="100" />
 
 ## MATLAB Code: `analysis.m`
