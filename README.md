@@ -76,3 +76,7 @@ This MATLAB script performs similar tasks to the Python code:
 `@author: Pavan Mohan Neelamraju`
 
 `Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com
+
+**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
