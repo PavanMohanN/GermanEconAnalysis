@@ -24,3 +24,22 @@ Analysis and Visualization:
 
 Plots the original signals and their IMFs for each dataset.
 Saves the plots and analysis results as PNG files and CSV files for reporting purposes.
+
+
+Data
+Ensure data files are available at the specified paths.
+Data should include columns: 'Financial Quarter', 'Employement Rate', 'GDP', 'Compensation in Billions'.
+MATLAB Code: analysis.m
+Description
+The MATLAB script performs similar tasks to the Python script:
+
+Data Collection and Preprocessing:
+
+Loads data from CSV files.
+Drops unnecessary columns and merges datasets.
+Empirical Mode Decomposition (EMD):
+
+Applies EMD to the GDP, Compensation, and Employment Rate data.
+Analysis and Visualization:
+
+Plots the original signals and their IMFs for each dataset.
