@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains code for performing Empirical Mode Decomposition (EMD) on economic datasets related to Germany. The analysis involves three main datasets:
+This repository contains code for performing Empirical Mode Decomposition (EMD) on economic datasets related to Germany. The analysis involves three main datasets (also provided above):
 - Employment Rate
 - GDP
 - Compensation in Billions
