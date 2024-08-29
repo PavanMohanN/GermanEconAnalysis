@@ -20,7 +20,7 @@ The provided Python and MATLAB scripts will help in performing EMD, analyzing In
   - `GDP Germany Modified.csv`
   - `Compensation Germany Modified.csv`
 
-![image](https://github.com/user-attachments/assets/d0bbce8c-7812-4a52-9f70-2cc44e779d00)
+<img src="https://github.com/user-attachments/assets/d0bbce8c-7812-4a52-9f70-2cc44e779d00" alt="Image Description" width="100" />
 
 ## Python Code: `emd_analysis.py`
 
@@ -49,7 +49,7 @@ This script performs the following tasks:
    ```sh
    python emd_analysis.py
    ```
-![image](https://github.com/user-attachments/assets/17f51656-0151-4819-b111-879b180c8d94)
+<img src="https://github.com/user-attachments/assets/17f51656-0151-4819-b111-879b180c8d94" alt="Image Description" width="100" />
 
 ## MATLAB Code: `analysis.m`
 
