@@ -119,7 +119,7 @@ This MATLAB script performs similar tasks to the Python code:
 
 `Created in Aug 2024`
 
-`@author: Pavan Mohan Neelamraju`
+`@author: Pavan Mohan Neelamraju and Akshay Pratap Singh`
 
 `Affiliation: Indian Institute of Technology Madras`
 
